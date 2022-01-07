@@ -1,0 +1,26 @@
+{
+  "id": "48a92568-fc2d-45d6-9815-d65a60d28b42",
+  "name": "Rev2",
+  "publisher": "Default publisher",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50300,
+      "to": 50349
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0",
+  "features": ["TranslationFile"]
+}

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fr-FR" original="Rev2">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3805117937 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employe</source>
+          <target>Employée</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employe - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3805117937 - Field 2016694080 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CIN</source>
+          <target>Num Carte CIN</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employe - Field CIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3805117937 - Field 2981864456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Full Name</source>
+          <target>Nom complet</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employe - Field Full Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 295496757 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employe Entry</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employe Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 295496757 - Field 3731371814 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deadline</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employe Entry - Field Deadline - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 295496757 - Field 1175157885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employe CIN</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employe Entry - Field Employe CIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 295496757 - Field 3128874884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employe Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employe Entry - Field Employe Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 295496757 - Field 2017693284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Id</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employe Entry - Field Project Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 295496757 - Field 904306078 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employe Entry - Field Project Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328870583 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project</source>
+          <target>Projet</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Project - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328870583 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description Project</source>
+          <target>Descriptif Projet</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Project - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328870583 - Field 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>id</source>
+          <target>id</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Project - Field id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328870583 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name Project</source>
+          <target>Nom du projet</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Project - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3805117937 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employe Liste</source>
+          <target>Liste des employés</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Employe - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3419906813 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employe Card</source>
+          <target>Carte d'employé</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Employe Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3374862893 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Employe</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EntryEmploye - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2328870583 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project</source>
+          <target>projet</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Project - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2328870583 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name Project</source>
+          <target>Nom du projet</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Project - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2328870583 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name Project</source>
+          <target>Nom du projet</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Project - Control Name - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
